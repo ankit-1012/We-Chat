@@ -1,4 +1,4 @@
-# Android-Chat-App
+# We-Chat
 
 Android chat application developed with Java and Firebase. A hassle-free way to communicate. 
 ![image](https://github.com/ankit-1012/We-Chat/assets/88272796/a80d549c-5c6c-4adf-b302-a9eda88f03d4)
